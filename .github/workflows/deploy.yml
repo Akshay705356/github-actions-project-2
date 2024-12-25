@@ -7,7 +7,7 @@ jobs:
     env:
       MONGODB_PASSWORD: Shuru@2711
       MONGODB_USERNAME: akshay705356
-      MONGODB_CLUSTER_ADDRESS: cluster0.sh3q3.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.sh3q3.mongodb.net/
       PORT: 3000
     runs-on: ubuntu-latest
     steps:
