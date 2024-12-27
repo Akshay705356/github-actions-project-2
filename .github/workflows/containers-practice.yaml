@@ -1,4 +1,4 @@
-name: deploy-with-repo-env-variable
+name: deploy-inside-container
 on: workflow_dispatch
 env:
     MONGODB_DB_NAME: "gh-actions-db"
